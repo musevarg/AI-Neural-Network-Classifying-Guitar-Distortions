@@ -1,1 +1,1 @@
-# AI-NeualNetwork-Classifying-Guitar-Distortions
+# AI Neural Network to classify Guitar Distortions
