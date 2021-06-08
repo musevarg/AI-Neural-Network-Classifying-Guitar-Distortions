@@ -1,5 +1,5 @@
 
-# AI Neural Network to classify Guitar Distortions
+# AI Neural Network to classify Guitar Distortions.
 
 This project aimed to find out whether a Convolutional Neural Network (CNN) could be trained to classify audio files, in this case guitar distortions.
 
