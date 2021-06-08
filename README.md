@@ -15,4 +15,4 @@ It has been found that multiple binary models performed better, with an average 
 
 For more info, please read the report [here](https://github.com/musevarg/AI-NeuralNetwork-Classifying-Guitar-Distortions/blob/main/Docs/report.pdf).
 
-https://user-images.githubusercontent.com/49337864/121051677-8e91f100-c7b1-11eb-8f83-a7ff118da2c8.mp4
+https://user-images.githubusercontent.com/49337864/121162969-4ec91900-c846-11eb-88dc-8ef0b0651c3f.mp4
