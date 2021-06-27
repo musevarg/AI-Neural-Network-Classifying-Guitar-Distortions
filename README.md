@@ -5,7 +5,7 @@ This project aimed to find out whether a Convolutional Neural Network (CNN) coul
 
 1440 audio files were turned into [mel-spectrograms](https://librosa.org/doc/latest/_images/librosa-feature-melspectrogram-1.png) (visual representations of an audio signal, with time on the x-axis, frequencies on the y-axis and the intensifty of the frequency in dB represented by the color/z-axis).
 
-The CNNs were implemented in Python using the keras API and tensorflow as backend, and the models produced were all wrapped in a C# GUI to allow for a nice and seamsless experience.
+The CNNs were implemented in Python using the keras API and tensorflow as backend, and the models produced were all wrapped in a C# GUI to allow for a nice and seamless experience.
 
 Two apporaches were taken:
 * One multi-class model (with 12 classes) 
